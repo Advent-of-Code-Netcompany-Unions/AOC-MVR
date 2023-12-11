@@ -1,0 +1,13 @@
+D:\Code\AdventOfCode2023\AdventOfCode2023\bin\Debug\netcoreapp3.1\AdventOfCode2023.exe
+D:\Code\AdventOfCode2023\AdventOfCode2023\bin\Debug\netcoreapp3.1\AdventOfCode2023.deps.json
+D:\Code\AdventOfCode2023\AdventOfCode2023\bin\Debug\netcoreapp3.1\AdventOfCode2023.runtimeconfig.json
+D:\Code\AdventOfCode2023\AdventOfCode2023\bin\Debug\netcoreapp3.1\AdventOfCode2023.runtimeconfig.dev.json
+D:\Code\AdventOfCode2023\AdventOfCode2023\bin\Debug\netcoreapp3.1\AdventOfCode2023.dll
+D:\Code\AdventOfCode2023\AdventOfCode2023\bin\Debug\netcoreapp3.1\AdventOfCode2023.pdb
+D:\Code\AdventOfCode2023\AdventOfCode2023\obj\Debug\netcoreapp3.1\AdventOfCode2023.csprojAssemblyReference.cache
+D:\Code\AdventOfCode2023\AdventOfCode2023\obj\Debug\netcoreapp3.1\AdventOfCode2023.AssemblyInfoInputs.cache
+D:\Code\AdventOfCode2023\AdventOfCode2023\obj\Debug\netcoreapp3.1\AdventOfCode2023.AssemblyInfo.cs
+D:\Code\AdventOfCode2023\AdventOfCode2023\obj\Debug\netcoreapp3.1\AdventOfCode2023.csproj.CoreCompileInputs.cache
+D:\Code\AdventOfCode2023\AdventOfCode2023\obj\Debug\netcoreapp3.1\AdventOfCode2023.dll
+D:\Code\AdventOfCode2023\AdventOfCode2023\obj\Debug\netcoreapp3.1\AdventOfCode2023.pdb
+D:\Code\AdventOfCode2023\AdventOfCode2023\obj\Debug\netcoreapp3.1\AdventOfCode2023.genruntimeconfig.cache
